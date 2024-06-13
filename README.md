@@ -1,4 +1,11 @@
-# Continuous-Space Reasoning Tasks
+# Learning Iterative Reasoning through Energy Diffusion
+
+Yilun Du*, Jiayuan Mao*, Joshua B. Tenenbaum
+
+A link to our paper can be found [here](https://energy-based-model.github.io/ired/).
+
+
+## Continuous-Space Reasoning Tasks
 
 ```
 python3 train.py --dataset addition --data-workers 4 --batch_size 2048 --use-innerloop-opt True --supervise-energy-landscape True
@@ -6,14 +13,14 @@ python3 train.py --dataset lowrank --data-workers 4 --batch_size 2048 --use-inne
 python3 train.py --dataset inverse --data-workers 4 --batch_size 2048 --use-innerloop-opt True --supervise-energy-landscape True
 ```
 
-# Discrete-Space Reasoning Tasks
+## Discrete-Space Reasoning Tasks
 
 ```
 python3 train.py --dataset sudoku --batch_size 64 --model sudoku   --cond_mask True  --supervise-energy-landscape True   --use-innerloop-opt True
 python3 train.py --dataset connectivity-2 --batch_size 512 --model gnn --data-workers 20 --use-innerloop-opt True --supervise-energy-landscape True
 ```
 
-# Planning Tasks
+## Planning Tasks
 
 ```
 python3 ./gen_planning_dataset.py shortest-path --size 100000   # takes around 10 mins.
