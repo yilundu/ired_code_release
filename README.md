@@ -1,9 +1,29 @@
 # Learning Iterative Reasoning through Energy Diffusion
+Pytorch implementation for the Iterative Reasoning Energy Diffusion (IRED).
 
-Yilun Du*, Jiayuan Mao*, Joshua B. Tenenbaum
+<div align="center">
+  <img src="_assets/ired.gif" width="50%">
+</div>
 
-A link to our paper can be found [here](https://energy-based-model.github.io/ired/).
+**[Learning Iterative Reasoning through Energy Diffusion](https://energy-based-model.github.io/ired/)**
+<br />
+[Yilun Du](https://yilundu.com/)\*,
+[Jiayuan Mao](http://jiayuanm.com)\*, and
+[Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html)
+<br />
+In International Conference on Learning Representations (ICLR), 2023
+<br />
+[[Paper]](http://energy-based-model.github.io/ired/ired.pdf)
+[[Project Page]](https://energy-based-model.github.io/ired/)
 
+```
+@InProceedings{Du_2024_ICML,
+    author    = {Du, Yilun and Mao, Jiayuan and Tenenbaum, Joshua B.},
+    title     = {Learning Iterative Reasoning through Energy Diffusion},
+    booktitle = {International Conference on Machine Learning (ICML)},
+    year      = {2023}
+}
+```
 
 ## Continuous-Space Reasoning Tasks
 
