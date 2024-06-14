@@ -11,7 +11,7 @@ Pytorch implementation for the Iterative Reasoning Energy Diffusion (IRED).
 [Jiayuan Mao](http://jiayuanm.com)\*, and
 [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html)
 <br />
-In International Conference on Learning Representations (ICLR), 2023
+In International Conference on Machine Learning (ICML), 2024
 <br />
 [[Paper]](http://energy-based-model.github.io/ired/ired.pdf)
 [[Project Page]](https://energy-based-model.github.io/ired/)
@@ -21,7 +21,7 @@ In International Conference on Learning Representations (ICLR), 2023
     author    = {Du, Yilun and Mao, Jiayuan and Tenenbaum, Joshua B.},
     title     = {Learning Iterative Reasoning through Energy Diffusion},
     booktitle = {International Conference on Machine Learning (ICML)},
-    year      = {2023}
+    year      = {2024}
 }
 ```
 
