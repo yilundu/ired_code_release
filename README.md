@@ -1,14 +1,14 @@
 # Learning Iterative Reasoning through Energy Diffusion
 Pytorch implementation for the Iterative Reasoning Energy Diffusion (IRED).
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%;" border="0" style="border: 0px">
     <tr>
-        <td style="vertical-align: top; padding-right: 20px; width: 50%" width="50%">
+        <td style="vertical-align: top; padding-right: 20px; width: 50%" width="50%" border="0">
             <div align="left">
                 <img src="assets/ired.gif" width="100%">
             </div>
         </td>
-        <td style="vertical-align: top; width: 50%">
+        <td style="vertical-align: top; width: 50%" width="50%" border="0">
             <h3><a href="https://energy-based-model.github.io/ired/">Learning Iterative Reasoning through Energy Diffusion</a></h3>
             <p>
                 <a href="https://yilundu.com/">Yilun Du</a>*,
