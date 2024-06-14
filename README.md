@@ -1,20 +1,28 @@
 # Learning Iterative Reasoning through Energy Diffusion
 Pytorch implementation for the Iterative Reasoning Energy Diffusion (IRED).
 
-<div align="center">
-  <img src="_assets/ired.gif" width="50%">
-</div>
-
-**[Learning Iterative Reasoning through Energy Diffusion](https://energy-based-model.github.io/ired/)**
-<br />
-[Yilun Du](https://yilundu.com/)\*,
-[Jiayuan Mao](http://jiayuanm.com)\*, and
-[Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html)
-<br />
-In International Conference on Machine Learning (ICML), 2024
-<br />
-[[Paper]](http://energy-based-model.github.io/ired/ired.pdf)
-[[Project Page]](https://energy-based-model.github.io/ired/)
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td style="vertical-align: top; padding-right: 20px; width: 50%" width="50%">
+            <div align="left">
+                <img src="assets/ired.gif" width="100%">
+            </div>
+        </td>
+        <td style="vertical-align: top; width: 50%">
+            <h3><a href="https://energy-based-model.github.io/ired/">Learning Iterative Reasoning through Energy Diffusion</a></h3>
+            <p>
+                <a href="https://yilundu.com/">Yilun Du</a>*,
+                <a href="http://jiayuanm.com">Jiayuan Mao</a>*, and
+                <a href="https://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a>
+                <br />
+                In International Conference on Machine Learning (ICML), 2024
+                <br />
+                <a href="http://energy-based-model.github.io/ired/ired.pdf">[Paper]</a>
+                <a href="https://energy-based-model.github.io/ired/">[Project Page]</a>
+            </p>
+        </td>
+    </tr>
+</table>
 
 ```
 @InProceedings{Du_2024_ICML,
